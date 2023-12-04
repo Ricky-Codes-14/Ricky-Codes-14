@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Ricky-Codes-14
-- 👀 I’m interested in Software and Web Development
-- 🎓 I have a degree in Computer Sciences
+- 👋 Hi, I’m @Ricky-Codes-14 - Ricardo 
+- 👀 I’m a Software and Web Developer based in South Africa 
+- 🎓 I am currently studying to be a Systems Developer at AIE (Academic Instiute of Excellence) 
